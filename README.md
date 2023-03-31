@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhananja6557
-- 👀 I’m interested in coding PHP and coding
+- 👀 I’m interested in coding PHP
 - 🌱 I’m currently making Software usiing PHP, Python and Java Programming Languages
 
 

@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dhananja6557
-- 👀 I’m interested in coding PHP
-- 🌱 I’m currently making Software usiing PHP, Python and Java Programming Languages
+- 👋 Hi, I’m Dhananja
+- 👀 I’m interested in coding Javascript
+- 🌱 I’m currently making Software using PHP, Python, Java, and Javascript Programming Languages and React, NextJS, and React Native using Cross Platform Fullstack Development
 
 
 <!---

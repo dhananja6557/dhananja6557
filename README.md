@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Dhananja
-- 👀 I’m interested in coding Javascript
-- 🌱 I’m currently making Software using PHP, Python, Java, and Javascript Programming Languages and React, NextJS, and React Native using Cross Platform Fullstack Development
+🚀 About Me
+I'm a Full-Stack Developer and AI Enthusiast with expertise in JavaScript, React, Next.js, PHP, Node.js, and MySQL. I specialize in React/Vite + Tailwind CSS development and have experience in building scalable web applications.
 
+🎯 What I Do
+🔹 MSc Computing student at Wrexham University, UK
+🔹 Director - IT Division, Sri Lanka Police
+🔹 Building an AI-powered HTML/CSS code generator
+🔹 Developing a File Management System for CoreStack Solutions
 
-<!---
-dhananja6557/dhananja6557 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Tech Stack
+💻 Frontend: React, Next.js, Vite, Tailwind CSS
+🛠 Backend: Node.js, Express, PHP MVC
+📦 Database: MySQL, MongoDB
+🚀 Other: Redux, Ajax, jQuery
+
+📫 Connect with Me
+🔗 https://esolution.lk

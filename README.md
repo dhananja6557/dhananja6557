@@ -20,7 +20,7 @@
 ---
 
 ### 🚀 Projects
-- 🔒 AI-powered HTML/CSS front-end generator
+- 🔒 HTML/CSS front-end Code generater app
 - 🧾 POS System for supermarkets (Python + ttkbootstrap)
 - ✂️ Salon app for scheduling, payments & e-commerce
 - 📱 React Native app for Police Officer Duty Tracking
@@ -30,7 +30,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhananja6557&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical" width="48%" />
 </p>
 
@@ -38,8 +38,8 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilravi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@esolution.lk)
 
 ---
 

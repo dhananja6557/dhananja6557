@@ -1,17 +1,50 @@
-🚀 About Me
-I'm a Full-Stack Developer and AI Enthusiast with expertise in JavaScript, React, Next.js, PHP, Node.js,MySQL, and MongoDB. I specialize in React/Vite + Tailwind CSS development and have experience in building scalable web applications.
+<h2 align="center">👋 Hello, I'm [Your Name]</h2>
+<p align="center">
+  🎓 MSc Computing | 💻 Full-Stack Developer | 🇱🇰 Director of IT, Sri Lanka Police
+</p>
 
-🎯 What I Do
-🔹 MSc Computing student at Wrexham University, UK and BSc (Hons) Computing, Wrexham University, UK
-🔹 Software Developer - IT Division, Sri Lanka Police
-🔹 Building an AI-powered HTML/CSS code generator
-🔹 Developing a File Management System for CoreStack Solutions
+---
 
-🛠 Tech Stack
-💻 Frontend: React, Next.js, Vite, Tailwind CSS
-🛠 Backend: Node.js, Express, PHP MVC
-📦 Database: MySQL, MongoDB
-🚀 Other: Redux, Ajax, jQuery
+### 🧠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+### 🚀 Projects
+- 🔒 AI-powered HTML/CSS front-end generator
+- 🧾 POS System for supermarkets (Python + ttkbootstrap)
+- ✂️ Salon app for scheduling, payments & e-commerce
+- 📱 React Native app for Police Officer Duty Tracking
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+> *"Solving real-world problems through clean, creative code."*
+
 
 📫 Connect with Me
 🔗 https://esolution.lk

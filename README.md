@@ -71,8 +71,13 @@
 
 ---
 
+---
+
+### 🌐 Connect With Me
+
+[![Website](https://img.shields.io/badge/Website-esolution.lk-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://esolution.lk)
+
+---
+
 > *"Solving real-world problems through clean, creative code."*
 
-
-📫 Connect with Me
-🔗 https://esolution.lk

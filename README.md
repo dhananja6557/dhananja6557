@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello, I'm Dhananja AKSD</h2>
 <p align="center">
-  🎓 MSc Computing | 💻 Full-Stack Developer | Sri Lanka Police
+  🎓 MSc Computer Science | 💻 Full-Stack Developer | Sri Lanka Police
 </p>
 
 ---

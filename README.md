@@ -29,7 +29,6 @@ My work focuses on practical, reliable and secure software solutions using moder
 ### 💻 Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
@@ -48,6 +47,7 @@ My work focuses on practical, reliable and secure software solutions using moder
 
 ### 📱 Mobile Development
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![Android Java](https://img.shields.io/badge/Android_Java-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)

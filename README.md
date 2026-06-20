@@ -113,9 +113,9 @@ A secure election management solution developed for Sri Lanka's 2025 election op
 * Implemented secure backend services
 * Designed MySQL database schema for election data management
 
-### 📄 Document Tracking System
+### 📄 Procurement File Tracking System
 
-A complete document management and tracking system for monitoring document workflows.
+A complete procurement file management and tracking system for monitoring document workflows.
 
 **Technologies:** React, Vite, Node.js, Express.js, MongoDB
 

@@ -43,6 +43,7 @@ My work focuses on practical, reliable and secure software solutions using moder
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![PHP MVC](https://img.shields.io/badge/PHP_MVC-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
 ### 📱 Mobile Development
